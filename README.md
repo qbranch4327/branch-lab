@@ -29,3 +29,8 @@ Everything you've done so far has changed only your local copy the files. We now
 The last step in making your code available to other developers is to create a `Pull Request`.
 - Head on over to the [Branch Lab repo](https://github.com/qbranch4327/branch-lab/pulls) and go to the `Pull Requests` tab.
 - Click on the New pull request button.
+- Leave the `base: main` button alone. The base branch is the one we are merging our code in to.
+- Click the `compare: main` button and in the dropdown choose the branch you created earlier.
+- Click `Create pull request` and optionally fill in the comment box. Click `Create pull request` again.
+
+That's it! You've successfully used Git to create your own, isolated `change set`, and created a `Pull Request` to integrate your changes back into the main branch.
