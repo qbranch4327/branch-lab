@@ -1,6 +1,6 @@
-Player X's turn:
+Player O's turn:
 -------
 |O| |X|
 | |O| |
-|X| | |
+|X| |X|
 -------
